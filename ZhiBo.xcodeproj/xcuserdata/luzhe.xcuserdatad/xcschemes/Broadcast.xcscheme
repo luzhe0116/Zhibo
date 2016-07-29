@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2ED22F041D4B266C001C853F"
-               BuildableName = "Broadcast.app"
-               BlueprintName = "Broadcast"
-               ReferencedContainer = "container:Broadcast.xcodeproj">
+               BuildableName = "ZhiBo.app"
+               BlueprintName = "ZhiBo"
+               ReferencedContainer = "container:ZhiBo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2ED22F1D1D4B266C001C853F"
-               BuildableName = "BroadcastTests.xctest"
-               BlueprintName = "BroadcastTests"
-               ReferencedContainer = "container:Broadcast.xcodeproj">
+               BuildableName = "ZhiBo.xctest"
+               BlueprintName = "ZhiBoTests"
+               ReferencedContainer = "container:ZhiBo.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2ED22F281D4B266C001C853F"
-               BuildableName = "BroadcastUITests.xctest"
-               BlueprintName = "BroadcastUITests"
-               ReferencedContainer = "container:Broadcast.xcodeproj">
+               BuildableName = "ZhiBo.xctest"
+               BlueprintName = "ZhiBoUITests"
+               ReferencedContainer = "container:ZhiBo.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2ED22F041D4B266C001C853F"
-            BuildableName = "Broadcast.app"
-            BlueprintName = "Broadcast"
-            ReferencedContainer = "container:Broadcast.xcodeproj">
+            BuildableName = "ZhiBo.app"
+            BlueprintName = "ZhiBo"
+            ReferencedContainer = "container:ZhiBo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2ED22F041D4B266C001C853F"
-            BuildableName = "Broadcast.app"
-            BlueprintName = "Broadcast"
-            ReferencedContainer = "container:Broadcast.xcodeproj">
+            BuildableName = "ZhiBo.app"
+            BlueprintName = "ZhiBo"
+            ReferencedContainer = "container:ZhiBo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2ED22F041D4B266C001C853F"
-            BuildableName = "Broadcast.app"
-            BlueprintName = "Broadcast"
-            ReferencedContainer = "container:Broadcast.xcodeproj">
+            BuildableName = "ZhiBo.app"
+            BlueprintName = "ZhiBo"
+            ReferencedContainer = "container:ZhiBo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

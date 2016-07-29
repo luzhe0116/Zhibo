@@ -176,14 +176,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		2ED22F051D4B266C001C853F /* Broadcast.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Broadcast.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2ED22F051D4B266C001C853F /* ZhiBo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZhiBo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2ED22F121D4B266C001C853F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		2ED22F141D4B266C001C853F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2ED22F171D4B266C001C853F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		2ED22F1E1D4B266C001C853F /* BroadcastTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BroadcastTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		2ED22F1E1D4B266C001C853F /* ZhiBo.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ZhiBo.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2ED22F221D4B266C001C853F /* BroadcastTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BroadcastTests.m; sourceTree = "<group>"; };
 		2ED22F241D4B266C001C853F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		2ED22F291D4B266C001C853F /* BroadcastUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BroadcastUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		2ED22F291D4B266C001C853F /* ZhiBo.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ZhiBo.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2ED22F2D1D4B266C001C853F /* BroadcastUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BroadcastUITests.m; sourceTree = "<group>"; };
 		2ED22F2F1D4B266C001C853F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2ED22F3C1D4B26FC001C853F /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -481,9 +481,9 @@
 		2ED22F061D4B266C001C853F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				2ED22F051D4B266C001C853F /* Broadcast.app */,
-				2ED22F1E1D4B266C001C853F /* BroadcastTests.xctest */,
-				2ED22F291D4B266C001C853F /* BroadcastUITests.xctest */,
+				2ED22F051D4B266C001C853F /* ZhiBo.app */,
+				2ED22F1E1D4B266C001C853F /* ZhiBo.xctest */,
+				2ED22F291D4B266C001C853F /* ZhiBo.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -1106,9 +1106,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		2ED22F041D4B266C001C853F /* Broadcast */ = {
+		2ED22F041D4B266C001C853F /* ZhiBo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2ED22F321D4B266C001C853F /* Build configuration list for PBXNativeTarget "Broadcast" */;
+			buildConfigurationList = 2ED22F321D4B266C001C853F /* Build configuration list for PBXNativeTarget "ZhiBo" */;
 			buildPhases = (
 				2ED22F011D4B266C001C853F /* Sources */,
 				2ED22F021D4B266C001C853F /* Frameworks */,
@@ -1118,14 +1118,14 @@
 			);
 			dependencies = (
 			);
-			name = Broadcast;
+			name = ZhiBo;
 			productName = Broadcast;
-			productReference = 2ED22F051D4B266C001C853F /* Broadcast.app */;
+			productReference = 2ED22F051D4B266C001C853F /* ZhiBo.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2ED22F1D1D4B266C001C853F /* BroadcastTests */ = {
+		2ED22F1D1D4B266C001C853F /* ZhiBoTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2ED22F351D4B266C001C853F /* Build configuration list for PBXNativeTarget "BroadcastTests" */;
+			buildConfigurationList = 2ED22F351D4B266C001C853F /* Build configuration list for PBXNativeTarget "ZhiBoTests" */;
 			buildPhases = (
 				2ED22F1A1D4B266C001C853F /* Sources */,
 				2ED22F1B1D4B266C001C853F /* Frameworks */,
@@ -1136,14 +1136,14 @@
 			dependencies = (
 				2ED22F201D4B266C001C853F /* PBXTargetDependency */,
 			);
-			name = BroadcastTests;
+			name = ZhiBoTests;
 			productName = BroadcastTests;
-			productReference = 2ED22F1E1D4B266C001C853F /* BroadcastTests.xctest */;
+			productReference = 2ED22F1E1D4B266C001C853F /* ZhiBo.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		2ED22F281D4B266C001C853F /* BroadcastUITests */ = {
+		2ED22F281D4B266C001C853F /* ZhiBoUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2ED22F381D4B266C001C853F /* Build configuration list for PBXNativeTarget "BroadcastUITests" */;
+			buildConfigurationList = 2ED22F381D4B266C001C853F /* Build configuration list for PBXNativeTarget "ZhiBoUITests" */;
 			buildPhases = (
 				2ED22F251D4B266C001C853F /* Sources */,
 				2ED22F261D4B266C001C853F /* Frameworks */,
@@ -1154,9 +1154,9 @@
 			dependencies = (
 				2ED22F2B1D4B266C001C853F /* PBXTargetDependency */,
 			);
-			name = BroadcastUITests;
+			name = ZhiBoUITests;
 			productName = BroadcastUITests;
-			productReference = 2ED22F291D4B266C001C853F /* BroadcastUITests.xctest */;
+			productReference = 2ED22F291D4B266C001C853F /* ZhiBo.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -1181,7 +1181,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 2ED22F001D4B266C001C853F /* Build configuration list for PBXProject "Broadcast" */;
+			buildConfigurationList = 2ED22F001D4B266C001C853F /* Build configuration list for PBXProject "ZhiBo" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -1194,9 +1194,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				2ED22F041D4B266C001C853F /* Broadcast */,
-				2ED22F1D1D4B266C001C853F /* BroadcastTests */,
-				2ED22F281D4B266C001C853F /* BroadcastUITests */,
+				2ED22F041D4B266C001C853F /* ZhiBo */,
+				2ED22F1D1D4B266C001C853F /* ZhiBoTests */,
+				2ED22F281D4B266C001C853F /* ZhiBoUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -1399,12 +1399,12 @@
 /* Begin PBXTargetDependency section */
 		2ED22F201D4B266C001C853F /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2ED22F041D4B266C001C853F /* Broadcast */;
+			target = 2ED22F041D4B266C001C853F /* ZhiBo */;
 			targetProxy = 2ED22F1F1D4B266C001C853F /* PBXContainerItemProxy */;
 		};
 		2ED22F2B1D4B266C001C853F /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2ED22F041D4B266C001C853F /* Broadcast */;
+			target = 2ED22F041D4B266C001C853F /* ZhiBo */;
 			targetProxy = 2ED22F2A1D4B266C001C853F /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -1522,7 +1522,7 @@
 					"$(PROJECT_DIR)/Broadcast/UMessage_Sdk_1.2.0",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.lu.Broadcast;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = ZhiBo;
 			};
 			name = Debug;
 		};
@@ -1537,7 +1537,7 @@
 					"$(PROJECT_DIR)/Broadcast/UMessage_Sdk_1.2.0",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.lu.Broadcast;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = ZhiBo;
 			};
 			name = Release;
 		};
@@ -1548,8 +1548,8 @@
 				INFOPLIST_FILE = BroadcastTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.lu.BroadcastTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Broadcast.app/Broadcast";
+				PRODUCT_NAME = ZhiBo;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ZhiBo.app/ZhiBo";
 			};
 			name = Debug;
 		};
@@ -1560,8 +1560,8 @@
 				INFOPLIST_FILE = BroadcastTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.lu.BroadcastTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Broadcast.app/Broadcast";
+				PRODUCT_NAME = ZhiBo;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ZhiBo.app/ZhiBo";
 			};
 			name = Release;
 		};
@@ -1571,7 +1571,7 @@
 				INFOPLIST_FILE = BroadcastUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.lu.BroadcastUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = ZhiBo;
 				TEST_TARGET_NAME = Broadcast;
 			};
 			name = Debug;
@@ -1582,7 +1582,7 @@
 				INFOPLIST_FILE = BroadcastUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.lu.BroadcastUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = ZhiBo;
 				TEST_TARGET_NAME = Broadcast;
 			};
 			name = Release;
@@ -1590,7 +1590,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2ED22F001D4B266C001C853F /* Build configuration list for PBXProject "Broadcast" */ = {
+		2ED22F001D4B266C001C853F /* Build configuration list for PBXProject "ZhiBo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2ED22F301D4B266C001C853F /* Debug */,
@@ -1599,7 +1599,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2ED22F321D4B266C001C853F /* Build configuration list for PBXNativeTarget "Broadcast" */ = {
+		2ED22F321D4B266C001C853F /* Build configuration list for PBXNativeTarget "ZhiBo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2ED22F331D4B266C001C853F /* Debug */,
@@ -1608,7 +1608,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2ED22F351D4B266C001C853F /* Build configuration list for PBXNativeTarget "BroadcastTests" */ = {
+		2ED22F351D4B266C001C853F /* Build configuration list for PBXNativeTarget "ZhiBoTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2ED22F361D4B266C001C853F /* Debug */,
@@ -1617,7 +1617,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2ED22F381D4B266C001C853F /* Build configuration list for PBXNativeTarget "BroadcastUITests" */ = {
+		2ED22F381D4B266C001C853F /* Build configuration list for PBXNativeTarget "ZhiBoUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2ED22F391D4B266C001C853F /* Debug */,

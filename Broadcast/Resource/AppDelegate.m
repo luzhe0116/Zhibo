@@ -29,7 +29,7 @@
     [self initRootWindow];
     
     
-    
+    NSLog(@"这是我写的，不要乱撰改");
     return YES;
 }
 
